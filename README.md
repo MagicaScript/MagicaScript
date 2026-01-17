@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Github status](https://github-readme-stats-fast.vercel.app/api?username=MagicaScript&show_icons=true)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MagicaScript&layout=compact&langs_count=8)
+
+
 <!--
 **MagicaScript/MagicaScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
